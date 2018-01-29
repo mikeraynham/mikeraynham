@@ -32,7 +32,7 @@ If we keep those factors constant (or at least, relatively stable over time), th
 
 ## The espresso machine and grinder
 
-The job of the espresso machine is to heat the water to the required temperature, maintain that temperature as consistently as possible, and to force the water through the grinds at pressures of up to about 9 bar.
+The job of the espresso machine is to heat the water to the required temperature, maintain that temperature as consistently as possible, and to force the water through the grinds at pressures of around 9 bar.
 
 The job of the grinder is to grind your coffee beans into smaller pieces (grinds), which are as uniform and consistently sized as possible.  As a rule of thumb, the better designed and built the grinder, the better it is able to do this.
 
@@ -75,7 +75,7 @@ My grinder had a small plastic guide inside the outlet shoot.  I think the idea 
 
 ### Tamp the grinds
 
-If you spend any time reading online articles about tamping, you might get the impression that it is a very complicated process that takes years to master.  But it’s not really all that hard.  Transfer the grinds into your portafilter basket, and tap the portafilter a few times onto your work surface (or better, onto a tamping mat to save damaging your work surface).  This will help to remove any large voids between the grains.  Using a sturdy tamper, tamp down on the grinds with a force of about 30 pounds.  30 pounds, from what I can gather, is the recommended minimum force require to sufficiently compact the grinds.  If you are not sure what that feels like, put your bathroom scales on the work surface, and tamp down on those.  Once your happy with what it feels like, apply at least that much force each time you tamp.  It really doesn’t matter if you apply more because it takes more force than you can reasonably apply to compact the grinds too much.  So there’s no need to buy one of those expensive tampers that clicks when it a force of 30 pounds has been applied.  Just get a good sturdy metal tamper, and you’ll be fine.
+If you spend any time reading online articles about tamping, you might get the impression that it is a very complicated process that takes years to master.  But it’s not really all that hard.  Transfer the grinds into your portafilter basket, and tap the portafilter a few times onto your work surface (or better, onto a tamping mat to save damaging your work surface).  This will help to remove any large voids between the grains.  Using a sturdy tamper, tamp down on the grinds with a force of about 30 pounds.  Like most other numbers, there's nothing magical about this one.  It's simply a recognised force to aim for.  Given that the diameter of portafilter baskets varies, the actual pressure applied to the grinds is going to vary.  What really matters is consistency from shot to shot.  Find a force that you are comfortable with, and stick to it.
 
 The surface of the grinds should be smooth and level.  Clean the rim of the portafilter to remove any stray grinds, and put it in your espresso machine.  Make sure it is seated properly.
 
