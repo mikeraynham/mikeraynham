@@ -5,6 +5,9 @@ menu: "main"
 ---
 # Mike Raynham
 
+This CV is available in [PDF][1], [Word 97-2003][2], [Open Office][3], and
+[Markdown][4] formats.
+
 # Summary
 
 * Diverse experience over 25 years, and currently working as a senior Perl
@@ -113,3 +116,8 @@ Projects and responsibilities included:
 Perl, MySQL, Apache, nginx, Linux, Git, Vim, HTML, CSS, JavaScript, VirtualBox,
 AWS, S3, EC2, Shell Scripting, Sphinx Search, PostgreSQL, MongoDB, PHP,
 Windows, Puppet, Cobbler, Kickstart, memcached, Gearman, Varnish.
+
+[1]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.pdf
+[2]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.doc
+[3]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.odt
+[4]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.mkd
