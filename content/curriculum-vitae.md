@@ -10,7 +10,7 @@ This CV is available in [PDF][1], [Word 97-2003][2], [Open Office][3], and
 
 # Summary
 
-* Diverse experience over 25 years, and currently working as a senior Perl
+* Diverse experience over 27 years, and currently working as a senior Perl
   developer.  For six years prior to that, I was technical lead for a high
   capacity website: programming Perl, supporting Linux, Apache HTTP Server,
   nginx, HAProxy, MySQL, memcached and Gearman.
@@ -114,8 +114,8 @@ Projects and responsibilities included:
 # Buzzwords
 
 Perl, MySQL, Apache, nginx, Linux, Git, Vim, HTML, CSS, JavaScript, VirtualBox,
-AWS, S3, EC2, Shell Scripting, Sphinx Search, PostgreSQL, MongoDB, PHP,
-Windows, Puppet, Cobbler, Kickstart, memcached, Gearman, Varnish.
+AWS, S3, EC2, Shell Scripting, Sphinx Search, PostgreSQL, Windows, Puppet,
+Cobbler, Kickstart, memcached, Gearman, Varnish.
 
 [1]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.pdf
 [2]: https://github.com/mikeraynham/cv/raw/master/mike_raynham_cv.doc
