@@ -1,2 +1,2 @@
 # mikeraynham.co.uk
-Hugo files for mikeraynham.co.uk
+HTML and CSS files for mikeraynham.co.uk
